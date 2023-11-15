@@ -4,7 +4,7 @@
 
 # Como usar
 
-Para usar é bem simples, só precisa executar o arquivo e utilizar.
+Para usar é bem simples precisa de python instalado, só isso, se você já tiver é só executar o arquivo e utilizar.
 
 # Clone esse repositório
 
